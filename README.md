@@ -18,8 +18,6 @@ We have covered the basic analysis from IPL 2008 to IPL 2018.
 11. Batsman who has played the most number of dot balls.
 12. Most common dismissal types in IPL
 
-What Next: 
 
-Match result prediction!?
 
 
